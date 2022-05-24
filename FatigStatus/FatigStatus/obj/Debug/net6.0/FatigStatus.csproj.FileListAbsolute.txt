@@ -1,0 +1,15 @@
+C:\Users\lvvm2\source\repos\FatigStatus\FatigStatus\bin\Debug\net6.0\FatigStatus.exe
+C:\Users\lvvm2\source\repos\FatigStatus\FatigStatus\bin\Debug\net6.0\FatigStatus.deps.json
+C:\Users\lvvm2\source\repos\FatigStatus\FatigStatus\bin\Debug\net6.0\FatigStatus.runtimeconfig.json
+C:\Users\lvvm2\source\repos\FatigStatus\FatigStatus\bin\Debug\net6.0\FatigStatus.dll
+C:\Users\lvvm2\source\repos\FatigStatus\FatigStatus\bin\Debug\net6.0\FatigStatus.pdb
+C:\Users\lvvm2\source\repos\FatigStatus\FatigStatus\obj\Debug\net6.0\FatigStatus.csproj.AssemblyReference.cache
+C:\Users\lvvm2\source\repos\FatigStatus\FatigStatus\obj\Debug\net6.0\FatigStatus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvvm2\source\repos\FatigStatus\FatigStatus\obj\Debug\net6.0\FatigStatus.AssemblyInfoInputs.cache
+C:\Users\lvvm2\source\repos\FatigStatus\FatigStatus\obj\Debug\net6.0\FatigStatus.AssemblyInfo.cs
+C:\Users\lvvm2\source\repos\FatigStatus\FatigStatus\obj\Debug\net6.0\FatigStatus.csproj.CoreCompileInputs.cache
+C:\Users\lvvm2\source\repos\FatigStatus\FatigStatus\obj\Debug\net6.0\FatigStatus.dll
+C:\Users\lvvm2\source\repos\FatigStatus\FatigStatus\obj\Debug\net6.0\refint\FatigStatus.dll
+C:\Users\lvvm2\source\repos\FatigStatus\FatigStatus\obj\Debug\net6.0\FatigStatus.pdb
+C:\Users\lvvm2\source\repos\FatigStatus\FatigStatus\obj\Debug\net6.0\FatigStatus.genruntimeconfig.cache
+C:\Users\lvvm2\source\repos\FatigStatus\FatigStatus\obj\Debug\net6.0\ref\FatigStatus.dll
